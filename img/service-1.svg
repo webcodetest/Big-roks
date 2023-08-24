@@ -1,0 +1,43 @@
+<svg width="760" height="600" viewBox="0 0 760 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="760" height="600" rx="15" fill="#222222"/>
+<mask id="mask0_25_2" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="760" height="600">
+<rect width="760" height="600" rx="15" fill="#222222"/>
+</mask>
+<g opacity="0.2" filter="url(#filter0_f_25_2)">
+<circle cx="380" cy="300" r="200" fill="#ECCCBB"/>
+</g>
+<path d="M261.146 70.1455L518.849 286.939" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 287.969L261.146 87.8547" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 288.999L261.146 105.564" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 290.034L261.146 123.268" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 291.064L261.146 140.977" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 292.094L261.146 158.687" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 293.124L261.146 176.396" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 294.159L261.146 194.1" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 295.19L261.146 211.809" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 296.22L261.146 229.518" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 297.255L261.146 247.222" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 298.285L261.146 264.931" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 299.315L261.146 282.641" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 300.35H261.146" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 301.38L261.146 318.054" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 302.41L261.146 335.763" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 303.445L261.146 353.473" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 304.475L261.146 371.176" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 305.505L261.146 388.885" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 306.535L261.146 406.595" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 307.57L261.146 424.304" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 308.6L261.146 442.008" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 309.63L261.146 459.717" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 310.666L261.146 477.427" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 311.695L261.146 495.13" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 312.726L261.146 512.84" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M518.849 313.761L261.146 530.549" stroke="#E74B00" stroke-width="4.37" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<filter id="filter0_f_25_2" x="-20" y="-100" width="800" height="800" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_25_2"/>
+</filter>
+</defs>
+</svg>
